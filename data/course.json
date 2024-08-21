@@ -1,0 +1,28 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-site-56"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-site-56"
+  },
+  "course_title": "test-site-56",
+  "hide_download": false,
+  "course_description": "test-site-56",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "test-site-56",
+  "learning_resource_types": [],
+  "site_uid": "3a932ffb-307b-42bb-808d-88c3a05859da",
+  "site_short_id": "test-site-56"
+}
